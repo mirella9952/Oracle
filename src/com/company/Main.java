@@ -8,5 +8,6 @@ public class Main {
         System.out.println(db.getListe("SELECT * FROM PERSONAL p"));
 
         db.createTable("Test");
+        System.out.println("asd");
     }
 }
